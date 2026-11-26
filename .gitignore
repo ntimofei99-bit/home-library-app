@@ -1,0 +1,5 @@
+# Содержимое файла .gitignore:
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
